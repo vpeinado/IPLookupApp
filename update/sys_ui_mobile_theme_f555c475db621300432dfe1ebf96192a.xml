@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_mobile_theme">
+    <sys_ui_mobile_theme action="INSERT_OR_UPDATE">
+        <accent_color/>
+        <base_theme>dark</base_theme>
+        <name>bssic</name>
+        <navigation_accent_color/>
+        <navigation_bar_color/>
+        <navigation_bar_title>Love Service-now</navigation_bar_title>
+        <navigation_title_color/>
+        <sys_class_name>sys_ui_mobile_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-07 15:54:54</sys_created_on>
+        <sys_id>f555c475db621300432dfe1ebf96192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Love Service-now</sys_name>
+        <sys_package display_value="IPLookup" source="x_59153_iplookup">73ebee15db221300432dfe1ebf9619a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">73ebee15db221300432dfe1ebf9619a8</sys_scope>
+        <sys_update_name>sys_ui_mobile_theme_f555c475db621300432dfe1ebf96192a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-07 15:54:54</sys_updated_on>
+        <title_image/>
+        <toolbar_accent_color/>
+        <toolbar_color/>
+    </sys_ui_mobile_theme>
+</record_update>

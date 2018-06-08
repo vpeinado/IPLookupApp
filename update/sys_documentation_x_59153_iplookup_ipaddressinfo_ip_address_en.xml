@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="ip_address" label="IP address" language="en" table="x_59153_iplookup_ipaddressinfo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ip_address</element>
+            <help/>
+            <hint/>
+            <label>IP address</label>
+            <language>en</language>
+            <name>x_59153_iplookup_ipaddressinfo</name>
+            <plural>IP address</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-08 12:16:59</sys_created_on>
+            <sys_id>831d1842db2e1300432dfe1ebf96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IP address</sys_name>
+            <sys_package display_value="IPLookup" source="x_59153_iplookup">73ebee15db221300432dfe1ebf9619a8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">73ebee15db221300432dfe1ebf9619a8</sys_scope>
+            <sys_update_name>sys_documentation_x_59153_iplookup_ipaddressinfo_ip_address_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-08 12:16:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
